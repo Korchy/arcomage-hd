@@ -2,9 +2,9 @@
 
 This is fork of the "Arcomage HD" by Tom Chen with my alternative card images.
 
-I don't try to exactly redraw the original maps. The main thing is that they correspond to the meaning and look nice.
+I don't try to exactly redraw the original cards. The main thing is that they correspond to the meaning and look nice. But I try to be cannonical.
 
-Although my fork does not fully correspond to the canon, I think the new version of the maps looks much more interesting.
+Although my fork does not fully correspond to the canon, I think the new version of the cards looks much more interesting.
 
 The card images replacing is in progress, although not all the cards have been replaced yet. 
 

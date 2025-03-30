@@ -14,7 +14,7 @@ https://korchy.github.io/arcomage-hd/
 
 Examples of cards replacing:
 
-![](img/ex01.webp) 
+![](img/ex01.webp =600x400) 
 ![](img/ex02.webp) 
 ![](img/ex03.webp) 
 
